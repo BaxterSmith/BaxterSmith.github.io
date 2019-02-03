@@ -1,3 +1,39 @@
-body {
-    font-size: 14px;
+#container {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    line-height: 2;
+}
+
+header {
+    padding: 10px;
+    background-color: #009900;
+    color: #ffffff;
+}
+
+main {
+    background-color: #99ccff;
+    color: #333333;
+    padding: 10px;
+}
+
+footer {
+    background-color: #009900;
+    color: #ffffff;
+    padding: 10px;
+}
+
+h1, h2 {
+    font-weight: normal;
+}
+
+a {
+    text-decoration: none;
+}
+
+main a {
+    color: #009900;
+}
+
+main a:hover {
+    color: #ffffff;
 }

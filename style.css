@@ -36,6 +36,7 @@ main a {
 
 main a:hover {
     color: #ffffff;
+    transition: 0.5s;
 }
 
 ul {
